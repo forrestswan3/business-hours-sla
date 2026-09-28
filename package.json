@@ -1,0 +1,10 @@
+{
+  "name": "business-hours-sla",
+  "version": "1.0.0",
+  "description": "Business-hours SLA custom functions for Google Sheets (Apps Script), tested in Node.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/businessHours.test.js"
+  }
+}
